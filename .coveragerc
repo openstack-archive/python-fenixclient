@@ -1,0 +1,6 @@
+[run]
+branch = True
+source = fenixclient
+
+[report]
+ignore_errors = True
