@@ -14,6 +14,7 @@ CLI for this project.
 * Bugs: https://bugs.launchpad.net/python-fenixclient
 * Blueprints: https://blueprints.launchpad.net/python-fenixclient
 * How to contribute: https://docs.openstack.org/infra/manual/developers.html
+
 --------
 
 * TODO
