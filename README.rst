@@ -1,6 +1,6 @@
-===============================
+==================
 python-fenixclient
-===============================
+==================
 
 The API client and shell utility for Fenix
 
@@ -10,10 +10,9 @@ CLI for this project.
 * Free software: Apache license
 * Documentation: https://wiki.openstack.org/wiki/Fenix
 * Source: https://git.openstack.org/cgit/openstack/python-fenixclient
-* Launchpad: https://launchpad.net/python-fenixclient
-* Bugs: https://bugs.launchpad.net/python-fenixclient
-* Blueprints: https://blueprints.launchpad.net/python-fenixclient
+* Bugs tracking and Blueprints: https://storyboard.openstack.org/#!/project/openstack/python-fenixclient
 * How to contribute: https://docs.openstack.org/infra/manual/developers.html
+
 --------
 
 * TODO
