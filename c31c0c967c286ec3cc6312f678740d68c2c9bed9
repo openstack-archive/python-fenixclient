@@ -1,0 +1,8 @@
+Code-Review+2: Trinh Nguyen <dangtrinhnt@gmail.com>
+Workflow+1: Trinh Nguyen <dangtrinhnt@gmail.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Fri, 07 Dec 2018 14:45:54 +0000
+Reviewed-on: https://review.openstack.org/622076
+Project: openstack/python-fenixclient
+Branch: refs/heads/master
